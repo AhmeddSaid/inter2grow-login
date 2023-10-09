@@ -371,6 +371,9 @@ body {
   text-decoration-line: underline;
 }
 @media (max-width: 767px) {
+  .right-container {
+    height: fit-content;
+  }
   .right-container .signup {
     display: none;
   }
